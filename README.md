@@ -4,6 +4,8 @@
 
 #### It's a maven testng project. Test cases can be run using "test.xml".
 
+To execute, Right click test.xml file and Run
+
 There are 3 class-
 - LoginTests -  To validate login related scenarios
 - PrepareCart - For cart management (addition and deletion of items on inventory page)
